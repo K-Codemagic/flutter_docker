@@ -1,3 +1,6 @@
+[![Codemagic build status](https://api.codemagic.io/apps/61681c6222868862468ef175/61681c6222868862468ef174/status_badge.svg)](https://codemagic.io/apps/61681c6222868862468ef175/61681c6222868862468ef174/latest_build)
+
+
 # Dockerizing Flutter apps
 
 ![Flutter Docker cover](https://i.imgur.com/wy6vrUU.png)
